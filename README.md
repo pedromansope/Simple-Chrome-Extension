@@ -1,7 +1,16 @@
 
 # Extensão simples para Chrome
 
-O projeto tem como finalidade apenas exercitar a utilização de JavaScript, HTML e CSS.
+O projeto tem como finalidade treinar por meio de projeto prático as seguintes techs:
+
+
+<ul>
+  <li>JavaScript</li>
+  <li>LocalStorage</li>
+  <li>HTML5</li>
+  <li>CSS3</li>
+</ul>
+
 
 
 
