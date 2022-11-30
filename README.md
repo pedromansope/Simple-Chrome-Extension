@@ -13,4 +13,4 @@ A extensão se resume em salvar links diversos, semelhante à como funciona os f
 
 
 ### Imagem da Extensão
-![Logo](https://i.imgur.com/AlpdC4V.png)
+![Logo](https://i.imgur.com/cHIhowS.png)
